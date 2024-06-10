@@ -1,7 +1,6 @@
-Source:
+# Source
 
-https://www.kaggle.com/datasets/bhavikjikadara/emotions-dataset
-
+<https://www.kaggle.com/datasets/bhavikjikadara/emotions-dataset>
 
     Content:
 
@@ -18,4 +17,3 @@ https://www.kaggle.com/datasets/bhavikjikadara/emotions-dataset
         Sentiment Analysis: Uncover the prevailing sentiments in English Twitter messages across various emotions.
         Emotion Classification: Develop models to accurately classify tweets into the six specified emotion categories.
         Textual Analysis: Explore linguistic patterns and expressions associated with different emotional states.
-
